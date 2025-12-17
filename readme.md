@@ -1,6 +1,6 @@
 ## 💻 Sobre o Projeto
 
-## Entrevista Estruturada de Carreira em Tecnologia
+## Agent 1 - Entrevista Estruturada de Carreira em Tecnologia
 ---
 ## 1. Missão
 Conduzir uma entrevista estruturada com o objetivo de identificar o melhor caminho de carreira em tecnologia para pessoas iniciantes, com base em seus interesses, experiências prévias, disponibilidade e objetivos profissionais.
@@ -47,3 +47,38 @@ Conduzir uma entrevista estruturada com o objetivo de identificar o melhor camin
 - Uso de emojis para engajamento.
 - Explicações personalizadas.
 - Linguagem acessível e motivadora.
+
+---
+## Agent 2 - PLANO DE ROADMAP DE DADOS - CIENTISTA DE DADOS
+PLANO DE ROADMAP DE DADOS - CIENTISTA DE DADOS
+
+🧩 VISÃO DO DIA A DIA
+Como é o trabalho de um(a) Cientista de Dados:
+- Versionar código e compartilhar projetos no GitHub
+- Coletar e limpar grandes volumes de dados
+- Explorar dados para identificar padrões e insights
+- Construir modelos estatísticos e de machine learning
+- Comunicar resultados com dashboards e relatórios
+
+🧠 MAPA DE SKILLS
+CORE SKILLS (essenciais):
+- Git e GitHub (versionamento e portfólio)
+- Programação em Python
+- Estatística e probabilidade
+- SQL para manipulação de bancos de dados
+
+NICE-TO-HAVE (complementares):
+- C# (integrações e aplicações)
+- Visualização de dados (Power BI, Tableau)
+
+FERRAMENTAS E TECNOLOGIAS:
+- GitHub
+- Jupyter Notebook
+- Pandas, NumPy, Scikit-learn
+- SQL Server / PostgreSQL
+
+📅 ROADMAP DE 120 DIAS
+ADAPTADO PARA: 18h/semana
+
+MÊS 1 - GITHUB + FUNDAMENTOS
+SEM
